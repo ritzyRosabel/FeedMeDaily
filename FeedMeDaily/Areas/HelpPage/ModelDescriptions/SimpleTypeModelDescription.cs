@@ -1,0 +1,6 @@
+namespace FeedMeDaily.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
