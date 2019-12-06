@@ -223,7 +223,10 @@
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\MeController.cs" />
     <Compile Include="Data\ConnectToDb.cs" />
+    <Compile Include="Data\DeleteFoodDetails.cs" />
+    <Compile Include="Data\GetFoodHistory.cs" />
     <Compile Include="Data\InsertIntoDb.cs" />
+    <Compile Include="Data\UpdateFoodDetails.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
